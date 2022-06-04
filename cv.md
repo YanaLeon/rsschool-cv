@@ -15,4 +15,19 @@ I'm 28 years old. I have an education as a journalist. For several years I have 
 * CSS 
 * JavaScript 
 * Git/GitHub 
+---------------------------------------------------------
+### **Code Examples** ###
+```
+function multiply(a, b){
+  return a * b
+}
+```
+---------------------------------------------------------
+### **Education** ###
+Belarusian State University
+---------------------------------------------------------
+### **Languages** ###
+* **Belarusian** - native speaker.
+* **Russian** - native speaker.
+* **English** - A2 (B1 in process…)
 
